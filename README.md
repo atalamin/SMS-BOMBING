@@ -21,7 +21,7 @@ SMS Bombing is an attack where a large number of messages are sent to a particul
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf SMS-BOMBING
+rm -rf SMS-BOMB
 ```
 To Install Tool Newly:
 
@@ -31,9 +31,10 @@ pkg upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/weirdnehal/SMS-BOMBING
-cd SMS-BOMBING
-python SMS-BOMBING.py
+git clone https://github.com/atalamin/SMS-BOMB
+cd SMS-BOMB
+git pull 
+python Sms-Bomber_enc.py
 ```
 
 ### WARNING :
@@ -45,19 +46,19 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 ### Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: misterweird10@gmail.com">Email</a>
+<li> Via <a href="mailto: www.atalamin188@gmail.com">Email</a>
 
 
 ### Visitors :
 
-![Visitor Count](https://profile-counter.glitch.me/weirdnehal/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/atalamin/count.svg)
 
 
 
 <p align="left">
-  <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40Nehal Ahmed-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/atalamin" target="_blank"><img src="https://img.shields.io/badge/Github-atalamin-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/skb.team.2022.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40skb.team.2022-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.facebook.com/Termux.User.Tera.Next.Pappa" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
 
